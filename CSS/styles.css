@@ -25,6 +25,7 @@ a:hover{
 #navbar{
     padding: 1.5rem 2rem;
     border-bottom: 2px solid #ddd;
+    background-color: #e6f2ff;
 }
 
 #navbar-inner{
